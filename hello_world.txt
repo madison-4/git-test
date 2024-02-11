@@ -1,3 +1,0 @@
-Am just trying to practice committing repos in github
-This thing is so good
-Am making a read me file using vscode editor.
