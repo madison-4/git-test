@@ -1,4 +1,5 @@
-# git-test
-A
-I messed up and wrote on the hello world text as opposed to the read me file
-Am trying to learn and pracftice committing to github from git and the command line.
+# About
+This was my very first use of git.
+I am looking at a way to automate the git add, commit and push
+To that end the script, commit was born
+
